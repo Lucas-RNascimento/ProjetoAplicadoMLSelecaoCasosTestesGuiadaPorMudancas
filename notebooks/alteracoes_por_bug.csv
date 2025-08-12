@@ -1,0 +1,4 @@
+bug_id,tipo,linha_codigo
+Mockito-18,adicionada,return new ArrayList<Object>();
+Mockito-18,adicionada,return new LinkedHashSet<Object>();
+Mockito-18,removida,return new LinkedList<Object>();

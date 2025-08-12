@@ -16,6 +16,7 @@ Realizar o levantamento dos requisitos técnicos necessários para o desenvolvim
 | Categoria            | Ferramenta/Stack         | Observações                                  |
 |---------------------|--------------------------|----------------------------------------------|
 | Linguagem principal | Python                   | Versão 3.10 ou superior                      |
+|Framework de testes | PyTest                   | Compatível com testes unitários e integração |
 | Visualização        | Streamlit ou Plotly      | Para dashboards interativos                  |
 | Machine Learning    | Scikit-learn             | Modelos de classificação e regressão         |
 | Versionamento       | Git + GitHub             | Análise de commits e histórico de mudanças   |
